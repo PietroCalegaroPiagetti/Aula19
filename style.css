@@ -2,7 +2,30 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background: #111;
+    background: black;
     color: white;
-    padding: 20px;
+    padding: 30px;
 }
+
+.topo nav {
+    display: flex;
+    gap: 25px;
+
+}
+
+
+.hero{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 30px;
+}
+
+.container-artigos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+}
+
+
+
