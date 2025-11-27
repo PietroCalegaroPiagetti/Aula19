@@ -28,9 +28,9 @@
 }
 
 article {
-    flex: 1 1 calc(50% - 20px);
+    flex: 30 calc(50% - 20px);
     background: silver;
-    padding: 30px;
+    padding: 20px;
     border-radius: 10px;
 }
 
